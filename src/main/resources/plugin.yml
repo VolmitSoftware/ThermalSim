@@ -1,0 +1,4 @@
+name: ThermalSim
+version: '${version}'
+main: com.volmit.thermalsim.ThermalSim
+api-version: 1.19
